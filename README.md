@@ -9,8 +9,7 @@
   * [Tests](#tests)
   * [License](#license)
   * [Questions](#questions)
-  ## Deployed Application
-  This application is deployed on Heroku at: 
+ 
   ## Installation 
   In order for the application to run, the following must be installed: Node.js, MySQL, Sequelize, Express, Dotenv 
   ## Usage 
@@ -23,3 +22,4 @@
   ## Questions 
   * If you would like to contact me directly, send me an email at: abbasiafnan9@gmail.com
   * You can find my GitHub profile at: https://github.com/abbasiafnan9
+## screencastify

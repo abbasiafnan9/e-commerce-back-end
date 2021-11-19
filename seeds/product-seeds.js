@@ -8,7 +8,7 @@ const productData = [
     category_id: 1,
   },
   {
-    product_name: 'Nike',
+    product_name: 'Running Sneakers',
     price: 90.0,
     stock: 25,
     category_id: 5,
